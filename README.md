@@ -192,8 +192,3 @@ I've worked with a lot of frameworks, languages and infrastructure in my life. A
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kurisu/github-stats/master/generated/languages.svg#gh-light-mode-only)
